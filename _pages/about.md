@@ -21,5 +21,5 @@ I also enjoy trading card games and video games in my freetime. I play Pokemon T
 
 Writing Samples
 ======
-* [Graph Neural Networks for Power Resource Allocation in NOMA Wireless Networks](/files/GNN_NOMA.pdf)
-* [Comparison of Message Passing Graph Neural Networks and the Weisfeiler Lehman Graph Isomorphism Test](/files/GNN_WL.pdf)
+* [Graph Neural Networks for Power Resource Allocation in NOMA Wireless Networks]({{ "/files/GNN_NOMA.pdf" | relative_url }})
+* [Comparison of Message Passing Graph Neural Networks and the Weisfeiler Lehman Graph Isomorphism Test]({{ "/files/GNN_WL.pdf" | relative_url }})
